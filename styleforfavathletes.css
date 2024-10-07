@@ -1,0 +1,61 @@
+
+body{
+	background: whitesmoke;
+	width: 90%;
+	margin:auto;
+}
+
+h1{
+	color:bf80ff;
+	padding: 10px;
+	margin: auto;
+	width: 40%;
+	font-family: "Arsenal SC", sans-serif;
+  	font-weight: 600;
+  	font-style: normal;
+	text-align: center;
+}
+
+.drivers{ 
+	background: lightseagreen;
+	width: 100%;
+	text-align: center;
+	padding: 5px;
+	margin: auto;
+	border: 2px solid black;
+	float: left;
+	clear: both
+}
+
+.photo{
+	float:right;
+	clear: both;
+	margin-left: 10%;
+	margin-top: 10%;
+}
+
+.highlights{
+	border: 2px solid black;
+	width: 40%;
+	padding: 5px;
+	margin-top: 10%;
+	margin-left: auto;
+	text-align: left;
+	align-content: center;
+	justify-content: center;
+
+}
+
+.CH{
+	text-align: center;
+}
+
+.bv{
+	width: 30%;
+	padding: 5px;
+	margin-top: 30px;
+	margin-left: auto;
+	text-align: left;
+	align-content: center;
+	justify-content: center;
+}
